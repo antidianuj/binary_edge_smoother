@@ -7,6 +7,7 @@ Original Binary Image:
 ![image](im.jpg)
 
 Edge-smoothing:
+
 ![image](im.jpg)
 
 
