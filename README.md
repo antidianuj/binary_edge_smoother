@@ -8,6 +8,6 @@ Original Binary Image:
 
 Edge-smoothing:
 
-![image](im.jpg)
+![download](https://user-images.githubusercontent.com/47445756/230801922-7e931490-dd3f-4c04-ab93-f16f5eefe2ab.png)
 
 
